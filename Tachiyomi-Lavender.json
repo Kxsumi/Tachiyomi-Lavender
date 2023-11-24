@@ -7,42 +7,41 @@
       "id": "399416615742996480"
     }
   ],
-  "semanticColors": {
-      "ACTIVITY_CARD_BACKGROUND": [
+     "ACTIVITY_CARD_BACKGROUND": [
         "#222046"
       ],
       "BACKGROUND_ACCENT": [
         "#0C0C1D"
       ],
-      "BACKGROUND_MOBILE_PRIMRARY": [
+      "BACKGROUND_MOBILE_PRIMARY": [
         "#111128"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
         "#181632"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-        "#27253a"
+        "#27253C7a"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-        "#27253a"
+        "#27253C7a"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-        "#27253d"
+        "#27253C4d"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-        "#272539"
+        "#27253C99"
       ],
       "BACKGROUND_NESTED_FLOATING": [
         "#181632"
       ],
-      "BACKGROUND_PRIMRARY": [
+      "BACKGROUND_PRIMARY": [
         "#111128"
       ],
       "BACKGROUND_SECONDARY": [
-        "#111128"
+        "#181632"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-        "#111128"
+        "#1D1B3C"
       ],
       "BACKGROUND_TERTIARY": [
         "#222046"
@@ -113,12 +112,6 @@
       "CHAT_BACKGROUND": [
         "#111128"
       ],
-      "CARD_PRIMARY_BG": [
-        "#191724"
-      ],
-      "CARD_SECONDARY_BG": [
-        "#26233a"
-      ],
       "CHAT_BORDER": [
         "#222046"
       ],
@@ -155,7 +148,7 @@
       "FORUM_POST_TAG_BACKGROUND": [
         "#1D1B3Ce6"
       ],
-      "HEADER_PRIMRARY": [
+      "HEADER_PRIMARY": [
         "#e0e7fd"
       ],
       "HEADER_SECONDARY": [
