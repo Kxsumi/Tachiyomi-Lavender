@@ -113,6 +113,12 @@
       "CHAT_BACKGROUND": [
         "#111128"
       ],
+      "CARD_PRIMARY_BG": [
+        "#191724"
+      ],
+      "CARD_SECONDARY_BG": [
+        "#26233a"
+      ],
       "CHAT_BORDER": [
         "#222046"
       ],
