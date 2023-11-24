@@ -14,7 +14,7 @@
       "BACKGROUND_ACCENT": [
         "#0C0C1D"
       ],
-      "BACKGROUND_MOBILE_PRIMARY": [
+      "BACKGROUND_MOBILE_PRIMRARY": [
         "#111128"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
@@ -35,7 +35,7 @@
       "BACKGROUND_NESTED_FLOATING": [
         "#181632"
       ],
-      "BACKGROUND_PRIMARY": [
+      "BACKGROUND_PRIMRARY": [
         "#111128"
       ],
       "BACKGROUND_SECONDARY": [
@@ -155,7 +155,7 @@
       "FORUM_POST_TAG_BACKGROUND": [
         "#1D1B3Ce6"
       ],
-      "HEADER_PRIMARY": [
+      "HEADER_PRIMRARY": [
         "#e0e7fd"
       ],
       "HEADER_SECONDARY": [
@@ -208,8 +208,11 @@
       ]
   },
   "rawColors": {
+      "PRIMARY_100": "#dcddde",
+      "PRIMARY_200": "#dcddde",
       "PRIMARY_460": "#181632",
       "PRIMARY_530": "#0C0C1D",
+      "PRIMARY_560": "#141414",
       "PRIMARY_600": "#111128",
       "PRIMARY_630": "#181632",
       "PRIMARY_660": "#1D1B3C",
@@ -240,7 +243,9 @@
       "BRAND_800": "#1a1e49",
       "BRAND_830": "#141738",
       "BRAND_860": "#0d0f24",
-      "BRAND_900": "#04050c"
+      "BRAND_900": "#04050c",
+      "BRAND_NEW_500_ALPHA_20": "#007bff33",
+      "PRIMARY_DARK_700_ALPHA_60": "#14141499"
   },
   "spec": 2
 }
