@@ -3,7 +3,7 @@
   "description": "A theme inspired by Tachiyomi's Lavender color scheme.",
   "authors": [
     {
-      "name": "LuckFire",
+      "name": "Kxsumi",
       "id": "399416615742996480"
     }
   ],
@@ -234,7 +234,8 @@
       "BRAND_800": "#1a1e49",
       "BRAND_830": "#141738",
       "BRAND_860": "#0d0f24",
-      "BRAND_900": "#04050c"
+      "BRAND_900": "#04050c",
+      "PRIMARY_DARK_700_ALPHA_60": "#111128"
   },
   "spec": 2
 }
