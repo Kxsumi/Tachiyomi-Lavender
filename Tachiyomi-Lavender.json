@@ -3,12 +3,12 @@
   "description": "A theme inspired by Tachiyomi's Lavender color scheme.",
   "authors": [
     {
-      "name": "Kxsumi",
+      "name": "LuckFire",
       "id": "399416615742996480"
     }
   ],
   "semanticColors": {
-     "ACTIVITY_CARD_BACKGROUND": [
+      "ACTIVITY_CARD_BACKGROUND": [
         "#222046"
       ],
       "BACKGROUND_ACCENT": [
@@ -202,14 +202,13 @@
       ]
   },
   "rawColors": {
-      "PRIMARY_100": "#2f2c47",
-      "PRIMARY_200": "#2f2c47",
-      "PRIMARY_460": "#2f2c47",
-      "PRIMARY_560": "#2f2c47",
-      "PRIMARY_600": "#2f2c47",
-      "PRIMARY_630": "#2f2c47",
-      "PRIMARY_700": "#2f2c47",
-      "PRIMARY_800": "#2f2c47",
+      "PRIMARY_460": "#181632",
+      "PRIMARY_530": "#0C0C1D",
+      "PRIMARY_600": "#111128",
+      "PRIMARY_630": "#181632",
+      "PRIMARY_660": "#1D1B3C",
+      "PRIMARY_700": "#222046",
+      "PRIMARY_800": "#181632",
       "BRAND_100": "#f5f2fe",
       "BRAND_130": "#e1d7fd",
       "BRAND_160": "#c5b2fa",
@@ -236,7 +235,7 @@
       "BRAND_830": "#141738",
       "BRAND_860": "#0d0f24",
       "BRAND_900": "#04050c",
-      "PRIMARY_DARK_700_ALPHA_60": "#27253a"
+      "PRIMARY_DARK_700_ALPHA_60": "#1c1a29"
   },
   "spec": 2
 }
